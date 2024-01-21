@@ -84,7 +84,7 @@ Create a component that displays each JSON dictionary on its own card. These car
 
 Leverage AI, such as OpenAI's DALL·E, to generate icons that match the context of each card. Alternatively, if there's no AI access, use an existing library like Heroicons and programmatically select icons based on the card's content or key names.
 
-## Hosting on Firebase
+## Task 3: Host on Firebase
 
 Finally, deploy and host your application on Firebase, which offers hosting services. You'll need to:
 
