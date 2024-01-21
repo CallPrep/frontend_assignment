@@ -82,7 +82,7 @@ Create a component that displays each JSON dictionary on its own card. These car
 
 ## Bonus Task: Generative AI for Contextual Icons
 
-Leverage AI, such as OpenAI's DALL·E, to generate icons that match the context of each card. Alternatively, if there's no AI access, use an existing library like Heroicons and programmatically select icons based on the card's content or key names.
+Leverage AI, such as OpenAI's DALL·E or GPT4 Vision API, to generate icons that match the context of each card. Alternatively, if there's no access to GPT4, use Heroicons library and GPT3.5 (or other OpenAI's text API) to programmatically select icons based on the card's content or key names.
 
 ## Task 3: Host on Firebase
 
